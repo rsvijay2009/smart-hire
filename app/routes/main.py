@@ -5,6 +5,7 @@ from ..services.nlp_service import extract_skills_experience, calculate_match_sc
 from ..services.db_service import store_candidate, get_candidates_by_job_id
 import uuid
 import os
+import logging
 
 main_bp = Blueprint("main", __name__)
 
