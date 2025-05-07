@@ -1,0 +1,24 @@
+Candidate: William Clark
+Email: william.clark@example.com
+
+Summary:
+Backend Developer with 10 years of experience in Java and SQL. Experienced in cloud migrations.
+
+Work Experience:
+- Senior Backend Developer, DataSync, 2018–Present (7 years)
+  - Built Java microservices and SQL databases.
+  - Led AWS migration projects.
+- Developer, OldTech, 2015–2018 (3 years)
+  - Developed Java applications.
+
+Education:
+- B.Sc. Computer Science, National University, 2014
+
+Certifications:
+- Oracle Certified Professional, Java SE, 2016
+
+Skills:
+- Java, SQL, AWS, Git, Leadership
+
+Additional:
+- Volunteer at tech literacy program.

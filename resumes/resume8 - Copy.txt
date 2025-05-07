@@ -1,0 +1,19 @@
+Candidate: Olivia Martinez
+Email: olivia.martinez@example.com
+
+Summary:
+Software Engineer with 3 years of experience in Python and React. Strong focus on agile development.
+
+Work Experience:
+- Software Engineer, AgileTech, 2022–Present (3 years)
+  - Developed Python backends and React frontends.
+  - Worked in Agile/Scrum teams.
+
+Education:
+- B.Sc. Software Engineering, Urban College, 2021
+
+Skills:
+- Python, React, JavaScript, SQL, Agile, Scrum, Communication
+
+Additional:
+- Organized Agile workshops.

@@ -1,0 +1,27 @@
+Candidate: John Smith
+Email: john.smith@example.com
+
+Summary:
+Experienced Senior Software Engineer with 7 years of experience in developing cloud-based applications. Skilled in Python, AWS, and CI/CD pipelines with a passion for collaborative problem-solving.
+
+Work Experience:
+- Senior Software Engineer, CloudTech Inc., 2020–Present (4 years)
+  - Led development of Python-based web applications using Flask and AWS.
+  - Implemented CI/CD pipelines with Docker and Jenkins.
+  - Managed AWS infrastructure (EC2, S3, RDS).
+- Software Engineer, WebSolutions, 2018–2020 (2 years)
+  - Built JavaScript frontends with React.
+  - Contributed to SQL database optimization.
+
+Education:
+- B.Sc. Computer Science, Tech University, 2017
+
+Certifications:
+- AWS Certified Solutions Architect, 2021
+
+Skills:
+- Python, JavaScript, SQL, AWS, Docker, Jenkins, React, Git
+- Teamwork, Communication, Problem-Solving
+
+Additional:
+- Volunteer mentor at local coding bootcamp.

@@ -1,0 +1,19 @@
+Candidate: David Brown
+Email: david.brown@example.com
+
+Summary:
+Junior Software Engineer with 2 years of experience in JavaScript and Node.js. Eager to learn cloud technologies.
+
+Work Experience:
+- Junior Developer, StartUp Tech, 2023–Present (2 years)
+  - Developed Node.js backends and React frontends.
+  - Used Git for version control.
+
+Education:
+- B.Sc. Information Technology, Community College, 2022
+
+Skills:
+- JavaScript, Node.js, React, Git, Communication
+
+Additional:
+- Participant in hackathons.

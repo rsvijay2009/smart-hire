@@ -1,0 +1,24 @@
+Candidate: Anna Wilson
+Email: anna.wilson@example.com
+
+Summary:
+Data Scientist with 5 years of experience in Python and machine learning. Strong analytical and teamwork skills.
+
+Work Experience:
+- Data Scientist, AI Innovations, 2021–Present (4 years)
+  - Built machine learning models with Python and TensorFlow.
+  - Analyzed data with Pandas and SQL.
+- Analyst, DataCorp, 2020–2021 (1 year)
+  - Used SQL for database queries.
+
+Education:
+- M.Sc. Data Science, Tech Institute, 2019
+
+Certifications:
+- TensorFlow Developer Certificate, 2022
+
+Skills:
+- Python, SQL, TensorFlow, Pandas, Machine Learning, Teamwork
+
+Additional:
+- Published research on AI applications.

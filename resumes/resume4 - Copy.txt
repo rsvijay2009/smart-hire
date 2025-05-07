@@ -1,0 +1,24 @@
+Candidate: Sarah Davis
+Email: sarah.davis@example.com
+
+Summary:
+Software Engineer with 6 years of experience in Python and AWS. Passionate about cloud architecture and teamwork.
+
+Work Experience:
+- Software Engineer, SkyNet Solutions, 2020–Present (3 years)
+  - Built Python APIs with Flask and AWS Lambda.
+  - Deployed applications with Docker.
+- Developer, CloudCore, 2019–2020 (3 years)
+  - Managed AWS infrastructure and SQL databases.
+
+Education:
+- B.Sc. Computer Science, Metro University, 2018
+
+Certifications:
+- AWS Certified Developer, 2021
+
+Skills:
+- Python, AWS, Docker, SQL, Flask, Teamwork, Problem-Solving
+
+Additional:
+- Contributed to open-source projects.

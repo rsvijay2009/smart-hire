@@ -1,0 +1,19 @@
+Candidate: Sophia Harris
+Email: sophia.harris@example.com
+
+Summary:
+Junior Developer with 1 year of experience in JavaScript and Node.js. Enthusiastic about learning cloud technologies.
+
+Work Experience:
+- Junior Developer, CodeZap, 2024–Present (1 year)
+  - Built Node.js APIs and JavaScript frontends.
+  - Used Git for collaboration.
+
+Education:
+- B.Sc. Information Systems, Local College, 2023
+
+Skills:
+- JavaScript, Node.js, Git, Teamwork
+
+Additional:
+- Active member of coding club.

@@ -1,0 +1,24 @@
+Candidate: Emily Johnson
+Email: emily.johnson@example.com
+
+Summary:
+Software Engineer with 4 years of experience in web development and cloud technologies. Proficient in Python and Azure, with strong communication skills.
+
+Work Experience:
+- Software Engineer, BlueSky Tech, 2021–Present (3 years)
+  - Developed Python applications with Django.
+  - Managed cloud resources on Azure.
+- Junior Developer, CodeWave, 2020–2021 (1 year)
+  - Built JavaScript frontends with Vue.
+
+Education:
+- B.Sc. Computer Science, State College, 2019
+
+Certifications:
+- Microsoft Certified: Azure Fundamentals, 2022
+
+Skills:
+- Python, JavaScript, SQL, Azure, Vue, Git, Communication
+
+Additional:
+- Organized team-building workshops.

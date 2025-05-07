@@ -1,0 +1,24 @@
+Candidate: James Taylor
+Email: james.taylor@example.com
+
+Summary:
+DevOps Engineer with 6 years of experience in AWS and CI/CD. Skilled in Docker and Terraform.
+
+Work Experience:
+- DevOps Engineer, CloudPeak, 2020–Present (5 years)
+  - Managed AWS infrastructure and CI/CD with Jenkins.
+  - Automated deployments with Terraform and Docker.
+- System Administrator, NetSys, 2019–2020 (1 year)
+  - Configured Linux servers.
+
+Education:
+- B.Sc. Computer Engineering, State University, 2018
+
+Certifications:
+- AWS Certified DevOps Engineer, 2021
+
+Skills:
+- AWS, Docker, Terraform, Jenkins, Linux, Git, Problem-Solving
+
+Additional:
+- Mentor at DevOps bootcamp.

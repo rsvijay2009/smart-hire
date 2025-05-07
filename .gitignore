@@ -1,0 +1,29 @@
+# Python virtual environment
+venv/*
+env/
+
+# Python cache files
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+
+# Environment variables
+.env
+
+# SQLite database
+app/candidates.db
+
+# IDE files
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Logs
+*.log
+
+# Local uploads folder
+uploads/
+
+# MacOS system files
+.DS_Store

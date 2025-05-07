@@ -1,0 +1,24 @@
+Candidate: Michael Lee
+Email: michael.lee@example.com
+
+Summary:
+Senior Developer with 8 years of experience in software engineering, specializing in Java and Kubernetes. Adept at leading agile teams.
+
+Work Experience:
+- Lead Developer, Innovate Systems, 2019–Present (6 years)
+  - Designed Java-based microservices with Kubernetes.
+  - Implemented CI/CD with Jenkins.
+- Software Developer, TechTrend, 2017–2019 (2 years)
+  - Developed SQL databases and Java applications.
+
+Education:
+- M.Sc. Software Engineering, City University, 2016
+
+Certifications:
+- Certified Kubernetes Administrator, 2020
+
+Skills:
+- Java, SQL, Kubernetes, Jenkins, Git, Agile, Leadership
+
+Additional:
+- Speaker at tech conferences.
