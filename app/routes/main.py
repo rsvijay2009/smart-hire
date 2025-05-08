@@ -11,6 +11,7 @@ main_bp = Blueprint("main", __name__)
 
 @main_bp.route("/")
 def index():
+    job_path = os.path.join(current_app.config["UPLOAD_FOLDER"])
     upload_folder = os.path.join(os.getcwd(), "uploads")
     job_description_path = os.path.join(upload_folder, "job_description.txt")
     return render_template("index.html", upload_folder=upload_folder, job_description_path=job_description_path)
