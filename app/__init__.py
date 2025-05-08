@@ -1,3 +1,4 @@
+import os
 from flask import Flask
 from .config import Config
 from .routes.main import main_bp
@@ -14,5 +15,8 @@ def create_app():
     # Initialize database
     with app.app_context():
         init_db()
+
+        # Ensure the uploads folder exists
+        os.makedirs(app.config["UPLOAD_FOLDER"], exist_ok=True)
 
     return app
