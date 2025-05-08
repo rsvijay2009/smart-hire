@@ -11,8 +11,9 @@ main_bp = Blueprint("main", __name__)
 
 @main_bp.route("/")
 def index():
-    """Render the main upload page."""
-    return render_template("index.html")
+    upload_folder = os.path.join(os.getcwd(), "uploads")
+    job_description_path = os.path.join(upload_folder, "job_description.txt")
+    return render_template("index.html", upload_folder=upload_folder, job_description_path=job_description_path)
 
 @main_bp.route("/upload", methods=["POST"])
 def upload_files():
