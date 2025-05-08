@@ -1,0 +1,12 @@
+{
+    "skills": [
+        "node.js", "django", "flask", "aws", "azure", "gcp", "docker",
+        "kubernetes", "terraform", "ansible", "jenkins", "git", "linux",
+        "mysql", "postgresql", "mongodb", "redis", "elasticsearch",
+        "machine learning", "deep learning", "tensorflow", "pytorch",
+        "pandas", "numpy", "scikit-learn", "data analysis", "data visualization",
+        "power bi", "tableau", "project management", "agile", "scrum",
+        "jira", "trello", "cybersecurity", "penetration testing", "cissp",
+        "networking", "ccna", "cloud computing", "devops", "ci/cd"
+    ]
+}
