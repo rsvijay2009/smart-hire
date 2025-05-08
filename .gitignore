@@ -22,8 +22,5 @@ app/candidates.db
 # Logs
 *.log
 
-# Local uploads folder
-uploads/
-
 # MacOS system files
 .DS_Store
